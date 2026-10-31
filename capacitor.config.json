@@ -1,0 +1,8 @@
+{
+  "appId": "com.everus.app",
+  "appName": "EverUs",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#2563EB" }
+  }
+}
